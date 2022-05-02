@@ -114,3 +114,4 @@ dist
 # Test artifacts
 
 output-folders-for-testing
+eslint_report.json
